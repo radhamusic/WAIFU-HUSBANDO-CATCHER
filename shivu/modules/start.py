@@ -44,7 +44,7 @@ async def start(update: Update, context: CallbackContext) -> None:
             [InlineKeyboardButton("sᴜᴘᴘᴏꝛᴛ", url=f'https://t.me/{SUPPORT_CHAT}'),
             InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url=f'https://t.me/{UPDATE_CHAT}')],
             [InlineKeyboardButton("ʜᴇʟᴘ ᴧиᴅ ᴄᴏᴍᴍᴧɴᴅs", callback_data='help')],
-            [InlineKeyboardButton("ᴏᴡɴᴇꝛ", url=f'https://t.me/iamakki001')]
+            [InlineKeyboardButton("ꜱᴏᴜʀᴄᴇ", url=f'https://github.com/Iamvillain77/WAIFU-HUSBANDO-CATCHER')]
         ]
         reply_markup = InlineKeyboardMarkup(keyboard)
         photo_url = random.choice(PHOTO_URL)
