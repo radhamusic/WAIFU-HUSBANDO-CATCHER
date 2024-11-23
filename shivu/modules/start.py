@@ -34,9 +34,9 @@ async def start(update: Update, context: CallbackContext) -> None:
         
         
         caption = f"""
-        ***Heyyyy...***
+        ***ʜᴇʏ...***
 
-***I am An Open Source Character Catcher Bot...Add Me in Your group.. And I will send Random Characters After.. every 100 messages in Group... Use /guess to.. Collect that Characters in Your Collection.. and see Collection by using /Harem... So add in Your groups and Collect Your harem***
+***ɪ ᴀᴍ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄʜᴀʀᴀᴄᴛᴇʀ ᴄᴀᴛᴄʜᴇʀ ʙᴏᴛ...ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. ᴀɴᴅ ɪ ᴡɪʟʟ ꜱᴇɴᴅ ʀᴀɴᴅᴏᴍ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ ᴀꜰᴛᴇʀ.. ᴇᴠᴇʀʏ 100 ᴍᴇꜱꜱᴀɢᴇꜱ ɪɴ ɢʀᴏᴜᴘ.. ᴜꜱᴇ /ɢᴜᴇꜱꜱ ᴛᴏ.. ᴄᴏʟʟᴇᴄᴛ ᴛʜᴀᴛ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ ɪɴ ʏᴏᴜʀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ.. ᴀɴᴅ ꜱᴇᴇ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ʙʏ ᴜꜱɪɴɢ /ʜᴀʀᴇᴍ... ꜱᴏ ᴀᴅᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ʏᴏᴜʀ ʜᴀʀᴇᴍ***
         """
         
         keyboard = [
@@ -90,9 +90,9 @@ async def button(update: Update, context: CallbackContext) -> None:
     elif query.data == 'back':
 
         caption = f"""
-        ***Hoyyyy...*** ✨
+        ***ʜᴇʏ...***
 
-***I am An Open Source Character Catcher Bot..Add Me in Your group.. And I will send Random Characters After.. every 100 messages in Group... Use /guess to.. Collect that Characters in Your Collection.. and see Collection by using /Harem... So add in Your groups and Collect Your harem***
+***ɪ ᴀᴍ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄʜᴀʀᴀᴄᴛᴇʀ ᴄᴀᴛᴄʜᴇʀ ʙᴏᴛ...ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.. ᴀɴᴅ ɪ ᴡɪʟʟ ꜱᴇɴᴅ ʀᴀɴᴅᴏᴍ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ ᴀꜰᴛᴇʀ.. ᴇᴠᴇʀʏ 100 ᴍᴇꜱꜱᴀɢᴇꜱ ɪɴ ɢʀᴏᴜᴘ.. ᴜꜱᴇ /ɢᴜᴇꜱꜱ ᴛᴏ.. ᴄᴏʟʟᴇᴄᴛ ᴛʜᴀᴛ ᴄʜᴀʀᴀᴄᴛᴇʀꜱ ɪɴ ʏᴏᴜʀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ.. ᴀɴᴅ ꜱᴇᴇ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ʙʏ ᴜꜱɪɴɢ /ʜᴀʀᴇᴍ... ꜱᴏ ᴀᴅᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ᴄᴏʟʟᴇᴄᴛ ʏᴏᴜʀ ʜᴀʀᴇᴍ***
         """
 
         
