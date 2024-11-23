@@ -100,7 +100,7 @@ async def button(update: Update, context: CallbackContext) -> None:
             [InlineKeyboardButton("ᴧᴅᴅ мᴇ ʙᴧʙʏ", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
             [InlineKeyboardButton("sᴜᴘᴘᴏꝛᴛ", url=f'https://t.me/{SUPPORT_CHAT}'),
             InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url=f'https://t.me/{UPDATE_CHAT}')],
-            [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", callback_data='help')],
+            [InlineKeyboardButton("ʜᴇʟᴘ ᴧиᴅ ᴄᴏᴍᴍᴧɴᴅs", callback_data='help')],
             [InlineKeyboardButton("ᴏᴡɴᴇꝛ", url=f'https://t.me/iamakki001')]
         ]
         reply_markup = InlineKeyboardMarkup(keyboard)
