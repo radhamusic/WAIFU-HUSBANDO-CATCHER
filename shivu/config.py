@@ -2,7 +2,7 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "1881562083"
+    OWNER_ID = "5909658683"
     sudo_users = "5909658683", "8019277081", "5608779258", "6961368696", "1881562083"
     GROUP_ID = -1002311769574
     TOKEN = "7655351916:AAE5evDq7VVWaW5Qx4lmWwRlCycjwHBtqe4"
